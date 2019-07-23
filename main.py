@@ -1,6 +1,6 @@
 import pyglet
 
-
+# what is going to happend after commit?
 # window = pyglet.window.Window()
 #
 # pyglet.app.run()
